@@ -1,5 +1,7 @@
 # 1000-web-servers-on-5-continents-in-40-minutes
 
+https://www.youtube.com/watch?v=P-2ev6vN67I
+
 (Originally written for PyOhio 2016)
 Infrastructure as Code: from 0 to 1000 servers with Python
 
